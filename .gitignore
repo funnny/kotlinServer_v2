@@ -1,5 +1,6 @@
 # property
-application.properties
+# why resource folder remove?
+!**/src/main/resources/application.properties
 
 HELP.md
 .gradle
